@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ExamenParcial</string>
+
+    <string name="add">Add Book</string>
+    <string name="update">Update Book</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="isbn">Isbn</string>
+    <string name="postDate">Post date</string>
+    <string name="pageNumber">Page number</string>
+    <string name="description">Description</string>
+    <string name="posterPath">PosterPath</string>
+    <!--  Buttons -->
+    <string name="buttonAdd">Add</string>
+    <string name="buttonUpdate">Update</string>
+    <!--  Cards -->
+    <string name="title_c">Title:</string>
+    <string name="isbn_c">Isbn:</string>
+    <string name="author_c">Author: </string>
+    <string name="postDate_c">Post date:</string>
+    <string name="pageNumber_c">Page number:</string>
+    <string name="description_c">Description: </string>
+    <string name="posterPath_c">PosterPath: </string>
+
+    <!--  Navbar -->
+    <string name="add_book">New Book</string>
+    <string name="update_book">Update Book</string>
+    <string name="list_books">Book List </string>
+    <string name="Isbn">ISBN</string>
+
+
+</resources>
